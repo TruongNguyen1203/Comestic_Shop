@@ -1,146 +1,162 @@
 [
-  {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Core Board Speed Rush 3",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 5
-  },
-  {
-    "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 6
-  },
-  {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Angular Blue Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 1
-  }
+ {
+   "Name": "Les beiges",
+   "Description": "A versatile eyeshadow palette for easy, neutral-toned looks. Five smudge-proof, long-lasting colours — from soft to intense, with matte to shimmery finishes — offer base, highlighter and liner effects.",
+   "Price": 65,
+   "PictureUrl": "images/products/1.jpeg",
+   "ProductTypeId": 1,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "le volume de chanel",
+   "Description": "This innovative, high-precision mascara achieves instant volume and intense colour in a single stroke for longer, thicker-looking lashes.\n\n",
+   "Price": 32,
+   "PictureUrl": "images/products/2.jpeg",
+   "ProductTypeId": 2,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "inimitable",
+   "Description": "In a single stroke, this lush mascara delivers it all: precise separation, length and curl for a natural, multi-dimensional effect.",
+   "Price": 32,
+   "PictureUrl": "images/products/3.jpeg",
+   "ProductTypeId": 2,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "stylo yeux waterproof\n",
+   "Description": "A waterproof, smudge-proof eyeliner in a wide range of shades that offers long-lasting definition with a twist of the wrist: The retractable tip winds up when you need it and winds down when you don't.",
+   "Price": 34,
+   "PictureUrl": "images/products/4.jpeg",
+   "ProductTypeId": 3,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "la palette sourcils",
+   "Description": "Bring dimension to your eyebrows with this all-in-one brow kit. Features a brow wax and powder, as well as mini tweezers, a mini spooley brush and an angled brush for effortless application.",
+   "Price": 40,
+   "PictureUrl": "images/products/t.jpeg",
+   "ProductTypeId": 4,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "sublimage l’essence de teint",
+   "Description": "An exquisite foundation with an unprecedented serum-like texture that melts into skin and instantly creates a smoother, more radiant-looking complexion. Day after day, skin maintains a luminous appearance.",
+   "Price": 150,
+   "PictureUrl": "images/products/6.jpeg",
+   "ProductTypeId": 6,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "fleurs de printemps",
+   "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+   "Price": 70,
+   "PictureUrl": "images/products/7.jpeg",
+   "ProductTypeId": 8,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "rouge allure ink",
+   "Description": "A long-lasting liquid lipstick with a smooth texture that glides on like a gloss and sets with a luminous, velvet-like finish.",
+   "Price": 40,
+   "PictureUrl": "images/products/8.jpeg",
+   "ProductTypeId": 9,
+   "ProductBrandId": 1
+ },
+ {
+   "Name": "DIOR BACKSTAGE EYE PALETTE",
+   "Description": "Dior Backstage Eye Palette is the Dior makeup artists' secret weapon to create an array of pro eye looks, from the most natural to the most defined. Inspired by the energy backstage at the runway shows and makeup artist essentials, the Dior Backstage Eye Palette includes shades that suit all skin tones in buildable matte and iridescent textures for perfect eyes.",
+   "Price": 100,
+   "PictureUrl": "images/products/9.png",
+   "ProductTypeId": 1,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "DIOR BACKSTAGE FACE & BODY FOUNDATION",
+   "Description": "The Dior Backstage Face & Body Foundation is the Dior makeup artists' secret weapon to create an instantly flawless complexion with ultra-buildable coverage, from a natural nude glow to high-coverage perfection.",
+   "Price": 90,
+   "PictureUrl": "images/products/10.png",
+   "ProductTypeId": 6,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "ROUGE BLUSH",
+   "Description": "Rouge Blush is the only* blush that gives cheeks intense, ultra-pigmented colour while ensuring long-wear makeup. The iconic shades of the Rouge Blush powder are inspired by the emblematic Rouge Dior lipstick. Colour intensity is buildable to suit your desires for a soft or bold finish. Rouge Blush is available in several finishes: matte, iridescent or satiny.",
+   "Price": 18,
+   "PictureUrl": "images/products/11.png",
+   "ProductTypeId": 8,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "ROUGE DIOR FOREVER LIQUID",
+   "Description": "Rouge Dior Forever Liquid is the 1st ultra-pigmented, transfer-proof liquid Dior lipstick, with vibrant, ultra-matte colors that withstand contact. With striking color, the liquid lipstick won't settle into lip lines, fade, budge, or feather, even on fabric and masks.\n\nRouge Dior Forever Liquid pushes the limits of long wear with an ultra-fine formula. With no heavy makeup effect for all the comfort of a bare-lip feel, the color of this transfer-proof lipstick coats the lips with a seemingly imperceptible film and unprecedented* color vibrancy. Rouge Dior Forever Liquid matte lipstick ensures optimal coverage for 12h** without compromising comfort, no matter the stresses of day-to-day life.",
+   "Price": 38,
+   "PictureUrl": "images/products/12.png",
+   "ProductTypeId": 9,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "ROUGE DIOR",
+   "Description": "Rouge Dior is the Dior lipstick with couture colors. True floral lip care, it is enriched with red peony and pomegranate flower extracts of natural origin. Rouge Dior dresses the lips in 75 bold colors with satin, matte, metallic or velvet finishes. Long-wear lipstick that ensures 16 hours of comfort* on the lips.\n\nMore modern and luxurious than ever, the new Rouge Dior lipstick is adorned with a new signature band featuring the CD initials, as an echo to the fitted waists of the House's catwalk look.\n\nRouge Dior lipstick is part of the House of Dior's sustainability strategy and is now refillable.",
+   "Price": 40,
+   "PictureUrl": "images/products/13.png",
+   "ProductTypeId": 9,
+   "ProductBrandId": 2
+ },
+ {
+   "Name": "ART LIBRARY: IT’S DESIGNER\n",
+   "Description": "Go avant-garde with the 12 runway-ready colours of It’s Designer developed by M∙A∙C Pro Artists. The highly pigmented powder applies evenly and blends well. This palette includes 10 eye shadow shades, along with two blush shades to colour the cheeks. Eye Shadows can be used wet or dry. Available in a wide variety of textures and finishes. $84 value.",
+   "Price": 48,
+   "PictureUrl": "images/products/14.png",
+   "ProductTypeId": 1,
+   "ProductBrandId": 3
+ },
+ {
+   "Name": "STUDIO FIX CONCEAL AND CORRECT PALETTE\n",
+   "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+   "Price": 35,
+   "PictureUrl": "images/products/15.png",
+   "ProductTypeId": 7,
+   "ProductBrandId": 3
+ },
+ {
+   "Name": "BLUSH\n",
+   "Description": "Buildable. Blendable. Indispensible. Uncover the best in glow. Our cult-favorite, bestselling NARS Blush delivers a weightless, natural-looking rush of cheek color in matte, satin, and shimmering finishes. Superfine micronized powder pigments ensure an irresistibly soft, blendable application. Buildable shades from sheer to bold deliver a natural wash of color to every skin tone—a light swipe of even the highest-intensity hues deliver a natural-looking flush. Superfine and silky powder. Irresistible and inimitable. Blush is the new bold.\nTHE #1-SELLING BLUSH IN THE U.S.*\n",
+   "Price": 30,
+   "PictureUrl": "images/products/16.png",
+   "ProductTypeId": 8,
+   "ProductBrandId": 4
+ },
+ {
+   "Name": "POWERMATTE LIP PIGMENT\n",
+   "Description": "Potency and precision—the ultimate power couple. A powerful concentrate of our most powerful matte yet. Fluid Pigment Complex, liquefied pigment with a zero-gravity feel, introduces infinite matte color saturation with ultra-flexible long-lasting wear. Sensorial, lightweight texture that applies like an ink on lips. Dries down to lock in formula for a smudge-resistant, carefree wear. Matte. Empowered.",
+   "Price": 26,
+   "PictureUrl": "images/products/17.png",
+   "ProductTypeId": 9,
+   "ProductBrandId": 4
+ },
+ {
+   "Name": "HIGH-PIGMENT LONGWEAR EYELINER\n",
+   "Description": "High pigment. High precision. High style. There’s no holding back. New High-Pigment Longwear Eyeliner delivers unprecedented intensity in just one swipe. Blendable, gel-like formula glides on with comfortable ease, instantly depositing rich color that sets in exactly where you want it and wears for up to 12 hours. Sharpenable tip defines waterlines and smokes out lash lines. Available in 16 shades, from matte to metallic. Persistent. Resistant. Irresistible. Stop at nothing.",
+   "Price": 24,
+   "PictureUrl": "images/products/18.png",
+   "ProductTypeId": 3,
+   "ProductBrandId": 4
+ },
+ {
+   "Name": "ALL DAY LUMINOUS WEIGHTLESS FOUNDATION\n",
+   "Description": "This uniquely fluid foundation delivers full coverage with unexpectedly weightless, 16-hour wear—all with just one drop. Highly pigmented and perfectly balanced, this breakthrough formula builds and blends effortlessly—the result of exclusive innovation uniquely designed to deliver longwearing full coverage, weightlessly. Shake, pump and blend in sections for complete coverage.",
+   "Price": 49,
+   "PictureUrl": "images/products/19.png",
+   "ProductTypeId": 6,
+   "ProductBrandId": 4
+ },
+ {
+   "Name": "SUMMER SOLSTICE EYESHADOW PALETTE\n",
+   "Description": "Nine vividly warm shades. One sultry palette. Ignite eyes with a spectrum rich in bronze and golden tones, designed to spark glowing dimension. Pure pigments suspended in an innovative liquid binding system create rich, high-impact color in just one stroke. Swipe on. Strike gold.\n\nNew. Limited edition.\n",
+   "Price": 49,
+   "PictureUrl": "images/products/20.png",
+   "ProductTypeId": 1,
+   "ProductBrandId": 4
+ }
 ]

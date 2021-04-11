@@ -17,7 +17,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     this.loadBasket();
-    this.loadCurrentUser();
+    //this.loadCurrentUser();
   }
 
   loadBasket() {
@@ -35,12 +35,12 @@ export class AppComponent implements OnInit {
   }
 
 
-  loadCurrentUser() {
-    const token = localStorage.getItem('token');
-    this.accountService.loadCurrentUser(token).subscribe(() => {
-      console.log('loaded user');
-    }, error => {
-      console.log(error);
-    })
-  }
+  // loadCurrentUser() {
+  //   const token = localStorage.getItem('token');
+  //   this.accountService.loadCurrentUser(token).subscribe(() => {
+  //     console.log('loaded user');
+  //   }, error => {
+  //     console.log(error);
+  //   })
+  // }
 }

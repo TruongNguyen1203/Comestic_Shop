@@ -1,18 +1,38 @@
 [
-  {
-    "Id": 1,
-    "Name": "Boards"
-  },
-  {
-    "Id": 2,
-    "Name": "Hats"
-  },
-  {
-    "Id": 3,
-    "Name": "Boots"
-  },
-  {
-    "Id": 4,
-    "Name": "Gloves"
-  }
+ {
+   "Id": 1,
+   "Name": "EYESHADOW  & PALETTES"
+ },
+ {
+   "Id": 2,
+   "Name": "MASCARA"
+ },
+ {
+   "Id": 3,
+   "Name": "EYELINER"
+ },
+ {
+   "Id": 4,
+   "Name": "EYEBROW"
+ },
+ {
+  "Id": 5,
+  "Name": "HIGHLIGHT"
+ },
+ {
+   "Id": 6,
+   "Name": "FOUNDATION"
+ },
+ {
+   "Id": 7,
+   "Name": "CONCEALER"
+ },
+ {
+   "Id": 8,
+   "Name": "BLUSH"
+ },
+ {
+   "Id": 9,
+   "Name": "LIPSTICK"
+ }
 ]
