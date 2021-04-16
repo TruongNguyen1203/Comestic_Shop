@@ -5,7 +5,8 @@ Build a comestic store using .Net core, Angular, HTML/CSS, Bootstrap
 Build with:
   - .Net core SDK 3.1
   -  Angular 11
-https://user-images.githubusercontent.com/56967622/115034000-3a773880-9ef5-11eb-826e-04110ef957cb.png
+
+<img width="1440" alt="Ảnh chụp Màn hình 2021-04-16 lúc 20 07 52" src="https://user-images.githubusercontent.com/56967622/115034000-3a773880-9ef5-11eb-826e-04110ef957cb.png">
 
 
 ## Installation
